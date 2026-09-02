@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Ibrahim Mohamed
+![Header]([https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00E5FF&height=220&section=header&text=Esraa%20Shalaby&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00E5FF&height=220&section=header&text=Ibrahim%20Mohamed&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=%20SoftWare%20Developer&descAlignY=55&descSize=18&animation=fadeIn))
 
-### 💻 Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+React+%26+Node.js;Detail-Oriented+%7C+Fast+Learner;Building+Real-World+Web+Solutions" alt="Typing SVG" />
 
-Building modern, responsive & user-friendly web applications.
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ibrahim-442&label=Profile%20Views&color=blueviolet&style=flat" />
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internship-7C3AED?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
