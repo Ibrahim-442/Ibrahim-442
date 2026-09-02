@@ -18,8 +18,6 @@ I’m Ibrahim Mohamed, a Software Developer and Computer Engineering student wit
 
 I have experience with programming, software engineering concepts, and building reliable and maintainable software solutions.
 
-> 🎯 Actively looking for **Internship** opportunities to grow as a developer.
-
 ---
 
 <div align="center">
@@ -35,7 +33,7 @@ I have experience with programming, software engineering concepts, and building 
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/ibrahim-mo27/" target="_blank">
-  <img src="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/YOUR_USERNAME/)" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:ibrahim.mohamed.7112@gmail.com">
