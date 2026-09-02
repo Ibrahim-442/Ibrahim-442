@@ -6,7 +6,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -18,13 +17,16 @@ I’m Ibrahim Mohamed, a Software Developer and Computer Engineering student wit
 
 I have experience with programming, software engineering concepts, and building reliable and maintainable software solutions.
 
----
+
 
 <div align="center">
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,git,github,cpp,java,mysql&theme=dark" alt="Skills" />
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,react,typescript,java,mysql,tailwind,bootstrap,php,python,git,github&theme=dark"
+  alt="Skills"
+/>
 
 </div>
 
