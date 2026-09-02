@@ -1,16 +1,160 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ibrahim-442/Ibrahim-442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ibrahim Mohamed
 
-Here are some ideas to get you started:
+### 💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building modern, responsive & user-friendly web applications.
+
+<img src="https://komarev.com/ghpvc/?username=Ibrahim-442&label=Profile%20Views&color=blueviolet&style=flat" />
+
+</div>
+
+---
+
+## 🎯 Status
+
+<div align="center">
+
+🟢 **OPEN TO INTERNSHIP**
+
+</div>
+
+---
+
+## 🎯 About Me
+
+💡 I'm a **Computer Engineering student** and a passionate **Full Stack Developer** focused on building fast, responsive, and detail-oriented web experiences.
+
+🔧 I enjoy building real-world applications and solving problems through clean and efficient code.
+
+⚡ I'm always learning new technologies and improving my development skills.
+
+🌱 Currently focusing on improving my **Backend Development** skills and becoming a stronger Full Stack Developer.
+
+🎯 I'm actively looking for **Internship opportunities** where I can learn, contribute, and grow as a developer.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍎 Apple E-Commerce
+
+A modern responsive e-commerce website built with React.
+
+**Tech Used:**
+
+<img src="https://skillicons.dev/icons?i=react,js,css,bootstrap" />
+
+🔗 **Live Demo:**  
+https://e-commerce-react-project-blush.vercel.app/
+
+---
+
+### ✅ Task Management App
+
+A modern task management application built with React and TypeScript.
+
+**Features:**
+
+- 📌 Create & manage tasks
+- 🔥 Priority system
+- 📅 Task dates
+- 🔎 Filtering
+- 📊 Dashboard
+- 📱 Responsive design
+- 💾 Persistent data
+
+**Tech Used:**
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-442&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-442&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ibrahim-442&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-442&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Ibrahim-442">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code. Learn. Build. Repeat. 🚀
+
+⭐ Thanks for visiting my profile!
+
+</div>
