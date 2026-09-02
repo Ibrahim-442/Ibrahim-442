@@ -33,21 +33,17 @@ I have experience with programming, software engineering concepts, and building 
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/esraa-mohamed-shalaby" target="_blank">
+<a href="www.linkedin.com/in/ibrahim-mo27" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:esraashalaby686@gmail.com">
+<a href="mailto:ibrahim.mohamed.7112@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED" alt="Email"/>
 </a>
 
-<a href="https://wa.me/201559008261" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
-</a>
 
-<a href="https://github.com/Esraa-Shalaby" target="_blank">
+<a href="https://github.com/Ibrahim-442" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
 
 </div>
----
