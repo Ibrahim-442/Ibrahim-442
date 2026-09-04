@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00E5FF&height=220&section=header&text=Ibrahim%20Mohamed&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=18&animation=fadeIn)
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Internship-7C3AED?style=for-the-badge&labelColor=0D1117)
-
 </div>
 
 
