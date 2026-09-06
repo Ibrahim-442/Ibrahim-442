@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00E5FF&height=220&section=header&text=Ibrahim%20Mohamed&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=18&animation=fadeIn)
+![Ibrahim Mohamed](https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:063F3D,100:00B8B0&height=220&section=header&text=Ibrahim%20Mohamed&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer&descAlignY=55&descSize=18&animation=fadeIn)
 
 </div>
 
@@ -46,4 +46,4 @@ I have experience with programming, software engineering concepts, and building 
 </a>
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00E5FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:063F3D,100:00B8B0&height=100&section=footer" width="100%"/>
