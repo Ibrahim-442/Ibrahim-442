@@ -22,7 +22,7 @@ I have experience with programming, software engineering concepts, and building 
 ## 🛠️ Tech Stack
 
 <img
-  src="[https://skillicons.dev/icons?i=html,css,js,typescript,react,cpp,cs,aspnet,java,python,php,mysql,tailwind,bootstrap,git,github&theme=dark](https://skillicons.dev/icons?i=html,css,js,typescript,react,cpp,cs,java,python,php,dotnet,mysql,tailwind,bootstrap,git,github&theme=dark)"
+  src="https://skillicons.dev/icons?i=html,css,js,typescript,react,cpp,cs,aspnet,java,python,php,mysql,tailwind,bootstrap,git,github&theme=dark"
   alt="Skills"
 />
 
